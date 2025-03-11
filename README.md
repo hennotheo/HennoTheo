@@ -2,6 +2,11 @@
 
 Hey! I'm a french developper who likes to create various applications like 3D Engine, proceduraly generated Earth, games in Unity etc....
 
+## Main Projects
+- 🎮 **[NarcEngine](https://github.com/hennotheo/NarcEngine)** : C++ Vulkan 3D game engine 
+- 🌍 **[Earth.](https://nazio-lt.itch.io/earth)** : Procedural stylised Earth.
+- 👽 **[The Hunter and the Prey](https://nazio-lt.itch.io/the-hunter-and-the-prey)** : GMTK Jam 2023 in Solo.
+
 ## Main Languages
 
 <div>  
@@ -32,4 +37,21 @@ Hey! I'm a french developper who likes to create various applications like 3D En
   <img src="https://skillicons.dev/icons?i=js" width=50px/>
   <img src="https://skillicons.dev/icons?i=html" width=50px/>
   <img src="https://skillicons.dev/icons?i=css" width=50px/>
+</div>
+
+## My Links
+
+<div>  
+  <a href="https://www.linkedin.com/in/henno-th%C3%A9o/">
+    <img  src="https://skillicons.dev/icons?i=linkedin" width=50px/>
+  </a>
+  <a href="https://theo-henno.com/">
+    <img  src="https://avatars.githubusercontent.com/u/94365544?v=4" width=50px/>
+  </a>
+  <a href="https://nazio-lt.itch.io/">
+    <img  src="https://static.itch.io/images/app-icon.svg" width=50px/>
+  </a>
+  <a href="https://bsky.app/profile/hennotheo.bsky.social">
+    <img  src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" width=50px/>
+  </a>
 </div>
