@@ -19,13 +19,27 @@ Hey! I'm a french developper who likes to create various applications like 3D En
 ## Main Softwares
 
 <div>  
-  <img src="https://skillicons.dev/icons?i=git" width=50px/>
-  <img src="https://skillicons.dev/icons?i=unity" width=50px/>
-  <img src="https://skillicons.dev/icons?i=unreal" width=50px/>
-  <img src="https://skillicons.dev/icons?i=godot" width=50px/>
-  <img src="https://skillicons.dev/icons?i=github" width=50px/>
-  <img src="https://skillicons.dev/icons?i=cmake" width=50px/>
-  <img src="https://github.com/hennotheo/HennoTheo/blob/main/vulkan.png" width=50px/>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" width=50px/>
+  </a>
+  <a href="https://unity.com/fr">
+    <img src="https://skillicons.dev/icons?i=unity" width=50px/>
+  </a>
+  <a href="https://www.unrealengine.com/">
+    <img src="https://skillicons.dev/icons?i=unreal" width=50px/>
+  </a>
+  <a href="https://godotengine.org/">
+    <img src="https://skillicons.dev/icons?i=godot" width=50px/>
+  </a>
+  <a href="https://github.com/hennotheo">
+    <img src="https://skillicons.dev/icons?i=github" width=50px/>
+  </a>
+  <a href="https://cmake.org/">
+    <img src="https://skillicons.dev/icons?i=cmake" width=50px/>
+  </a>
+  <a href="https://www.vulkan.org/">
+    <img src="https://github.com/hennotheo/HennoTheo/blob/main/vulkan.png" width=50px/>
+  </a>
 </div>
 
 ## Other Languages
